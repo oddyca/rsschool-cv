@@ -31,6 +31,12 @@ UI/UX Course
 
 ## Skills and traits
 
+* **HTML + CSS**;
+* * Bootstrap, SASS
+* **ES6 JavaScript**;
+* React
+* * Redux
+* jQuery
 * Fluent in English (Upper Intermediate). Basic knowledge of German;
 * Eagerness to learn:
 * * Currently taking EPAM (RS School) front-end course. Planning to take The Odin Project course as well;
