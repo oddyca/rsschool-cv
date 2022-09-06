@@ -61,3 +61,10 @@ function solution(string) {
     }
 }
 ```
+
+## Projects
+
+The following are the projects done using **React** during the FreeCodeCamp **Frontend Development Libraries** course
+*[**Calculator on React**](https://codepen.io/proks27/pen/mdxqOKP)
+*[**25+5 Timer**](https://codepen.io/proks27/pen/VwXxBZE)
+*[**Drum machine**](https://codepen.io/proks27/pen/jOzGdKz)
