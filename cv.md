@@ -42,3 +42,22 @@ UI/UX Course
     * Currently taking EPAM (RS School) front-end course. Planning to take The Odin Project course as well;
     * I try to learn something new about web development and design every day by reading articles, code and watching videos;
 * I like creative tasks and problem solving
+
+## Code example
+
+> Codewars 6kyu kata
+
+**Description**: Complete the solution so that the function will break up camel casing, using a space between words.
+
+**Solution**:
+```
+function solution(string) {
+  let regEx = /[a-z]+[A-Z]/
+    if (regEx.test(string)) {
+      let newStr = string.replace(/([a-z]+)([A-Z])/g, '$1 $2')
+      return newStr
+    } else {
+      return string
+    }
+}
+```
