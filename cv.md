@@ -8,14 +8,14 @@
 [Linkedin](https://www.linkedin.com/in/siarhei-prakapovich-511466213/) | [Instagram](https://www.instagram.com/sergisurr/)
 
 ## Education
-**2014-2016** (unfinished) — **Fraser International College**, Canada.\
+**2014-2016** (unfinished) — **Fraser International College**, Canada.
 * Business Administration / Arts and Social Sciences.
 
-**2016-2020** — **International University "MITSO"**, Belarus.\
+**2016-2020** — **International University "MITSO"**, Belarus.
 * The Bachelor of International Law
 
 ## Additional education
-**2021** — **IT Academy**, Minsk\
+**2021** — **IT Academy**, Minsk
 * UI/UX Course
 
 **2022** — **FreeCodeCamp**, online
@@ -31,16 +31,16 @@
 
 ## Skills and traits
 
-* **HTML + CSS**;
+* **HTML + CSS**
     * Bootstrap, SASS
-* **ES6 JavaScript**;
+* **ES6 JavaScript**
 * **React**
     * Redux
 * **jQuery**
-* Fluent in English (Upper Intermediate). Basic knowledge of German;
+* Fluent in **English** (Upper Intermediate). Basic knowledge of **German**
 * Eagerness to learn:
-    * Currently taking EPAM (RS School) front-end course. Planning to take The Odin Project course as well;
-    * I try to learn something new about web development and design every day by reading articles, code and watching videos;
+    * Currently taking EPAM (**RS School**) front-end course. Planning to take **The Odin Project** course as well
+    * I try to learn something new about web development and design every day by reading articles, code and watching videos
 * I like creative tasks and problem solving
 
 ## Code example
