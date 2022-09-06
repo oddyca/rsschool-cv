@@ -23,7 +23,7 @@ UI/UX Course
  * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/OddyCA/javascript-algorithms-and-data-structures)
  * [Frontend Development Libraries](https://www.freecodecamp.org/certification/OddyCA/front-end-development-libraries)
 
- ## Work experience
+## Work experience
 **2020 — 2022** — **Adevinta** (Kufar)
 1 year 1 month | Paralegal
 > Duties included: processing of applications from government agencies, executing accounts receivable, document management.
