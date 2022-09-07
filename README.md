@@ -1,1 +1,1 @@
-https://oddyca.github.io/rsschool-cv/cv
+https://oddyca.github.io/rsschool-cv/
